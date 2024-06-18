@@ -1,3 +1,5 @@
 nginx
 mysql
 mysql:5.7.20
+redis
+node:alpine3.20
